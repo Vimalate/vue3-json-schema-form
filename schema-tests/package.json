@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ajv-i18n": "^4.2.0"
+  }
+}
